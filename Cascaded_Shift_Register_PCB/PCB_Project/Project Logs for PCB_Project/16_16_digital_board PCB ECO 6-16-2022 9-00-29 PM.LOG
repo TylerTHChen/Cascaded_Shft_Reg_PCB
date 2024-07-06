@@ -1,0 +1,1876 @@
+Added Component: Designator=IN1(RHDRRA12W60P254X254_2X6_1574X850X508P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10494.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN2(RHDRRA12W60P254X254_2X6_1574X850X508P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10494.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN3(RHDRRA12W60P254X254_2X6_1574X850X508P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10494.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN4(RHDRRA12W60P254X254_2X6_1574X850X508P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10494.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN5(RHDRRA12W60P254X254_2X6_1574X850X508P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10494.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(M55-7008042R_HRW)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "952-3874-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "952-3874-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M55-7008042R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J2(M55-7008042R_HRW)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "952-3874-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "952-3874-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M55-7008042R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J3(M55-7008042R_HRW)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "952-3874-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "952-3874-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M55-7008042R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J4(M55-7008042R_HRW)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "952-3874-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "952-3874-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M55-7008042R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=JP(67996-408HLF_AMP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "609-3391-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "609-3391-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "67996-408HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RC1206N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "311-100FRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "311-100FRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "311-100FRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "311-100FRTR-NDL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC1206FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR1(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR2(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR3(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR4(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR5(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR6(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR7(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR8(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR9(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR10(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR11(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR12(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR13(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR14(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR15(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR16(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR17(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR18(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR19(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR20(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR21(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR22(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR23(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR24(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR25(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR26(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR27(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR28(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR29(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR30(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR31(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SR32(TSSOP16_5X4P5_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "74VHC595MTCXTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "74VHC595MTCXCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "74VHC595MTCXDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74VHC595MTCX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIN1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetIN1_1 Pin=R1-2
+Added Net: Name=NetIN1_1
+Added Pin To Net: NetName=NetIN1_2 Pin=IN1-2
+Added Pin To Net: NetName=NetIN1_2 Pin=R2-2
+Added Net: Name=NetIN1_2
+Added Pin To Net: NetName=NetIN1_3 Pin=IN1-3
+Added Pin To Net: NetName=NetIN1_3 Pin=R3-2
+Added Net: Name=NetIN1_3
+Added Pin To Net: NetName=NetIN1_4 Pin=IN1-4
+Added Pin To Net: NetName=NetIN1_4 Pin=R4-2
+Added Net: Name=NetIN1_4
+Added Pin To Net: NetName=NetIN1_5 Pin=IN1-5
+Added Pin To Net: NetName=NetIN1_5 Pin=R5-2
+Added Net: Name=NetIN1_5
+Added Pin To Net: NetName=NetIN1_6 Pin=IN1-6
+Added Pin To Net: NetName=NetIN1_6 Pin=R6-2
+Added Net: Name=NetIN1_6
+Added Pin To Net: NetName=NetIN1_7 Pin=IN1-7
+Added Pin To Net: NetName=NetIN1_7 Pin=R7-2
+Added Net: Name=NetIN1_7
+Added Pin To Net: NetName=NetIN1_9 Pin=IN1-9
+Added Pin To Net: NetName=NetIN1_9 Pin=IN1-10
+Added Pin To Net: NetName=NetIN1_9 Pin=IN2-9
+Added Pin To Net: NetName=NetIN1_9 Pin=IN2-10
+Added Pin To Net: NetName=NetIN1_9 Pin=IN3-9
+Added Pin To Net: NetName=NetIN1_9 Pin=IN3-10
+Added Pin To Net: NetName=NetIN1_9 Pin=IN4-9
+Added Pin To Net: NetName=NetIN1_9 Pin=IN4-10
+Added Pin To Net: NetName=NetIN1_9 Pin=IN5-9
+Added Pin To Net: NetName=NetIN1_9 Pin=IN5-10
+Added Pin To Net: NetName=NetIN1_9 Pin=JP-2
+Added Pin To Net: NetName=NetIN1_9 Pin=JP-4
+Added Pin To Net: NetName=NetIN1_9 Pin=JP-6
+Added Pin To Net: NetName=NetIN1_9 Pin=JP-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR1-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR1-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR2-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR2-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR3-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR3-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR4-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR4-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR5-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR5-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR6-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR6-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR7-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR7-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR8-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR8-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR9-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR9-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR10-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR10-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR11-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR11-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR12-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR12-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR13-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR13-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR14-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR14-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR15-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR15-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR16-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR16-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR17-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR17-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR18-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR18-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR19-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR19-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR20-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR20-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR21-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR21-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR22-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR22-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR23-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR23-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR24-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR24-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR25-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR25-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR26-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR26-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR27-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR27-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR28-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR28-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR29-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR29-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR30-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR30-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR31-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR31-13
+Added Pin To Net: NetName=NetIN1_9 Pin=SR32-8
+Added Pin To Net: NetName=NetIN1_9 Pin=SR32-13
+Added Net: Name=NetIN1_9
+Added Pin To Net: NetName=NetIN2_1 Pin=IN2-1
+Added Pin To Net: NetName=NetIN2_1 Pin=R8-2
+Added Net: Name=NetIN2_1
+Added Pin To Net: NetName=NetIN2_2 Pin=IN2-2
+Added Pin To Net: NetName=NetIN2_2 Pin=R9-2
+Added Net: Name=NetIN2_2
+Added Pin To Net: NetName=NetIN2_3 Pin=IN2-3
+Added Pin To Net: NetName=NetIN2_3 Pin=R10-2
+Added Net: Name=NetIN2_3
+Added Pin To Net: NetName=NetIN2_4 Pin=IN2-4
+Added Pin To Net: NetName=NetIN2_4 Pin=R11-2
+Added Net: Name=NetIN2_4
+Added Pin To Net: NetName=NetIN2_5 Pin=IN2-5
+Added Pin To Net: NetName=NetIN2_5 Pin=R12-2
+Added Net: Name=NetIN2_5
+Added Pin To Net: NetName=NetIN2_6 Pin=IN2-6
+Added Pin To Net: NetName=NetIN2_6 Pin=R13-2
+Added Net: Name=NetIN2_6
+Added Pin To Net: NetName=NetIN2_7 Pin=IN2-7
+Added Pin To Net: NetName=NetIN2_7 Pin=R14-2
+Added Net: Name=NetIN2_7
+Added Pin To Net: NetName=NetIN3_1 Pin=IN3-1
+Added Pin To Net: NetName=NetIN3_1 Pin=R15-2
+Added Net: Name=NetIN3_1
+Added Pin To Net: NetName=NetIN3_2 Pin=IN3-2
+Added Pin To Net: NetName=NetIN3_2 Pin=R16-2
+Added Net: Name=NetIN3_2
+Added Pin To Net: NetName=NetIN3_3 Pin=IN3-3
+Added Pin To Net: NetName=NetIN3_3 Pin=R17-2
+Added Net: Name=NetIN3_3
+Added Pin To Net: NetName=NetIN3_4 Pin=IN3-4
+Added Pin To Net: NetName=NetIN3_4 Pin=R18-2
+Added Net: Name=NetIN3_4
+Added Pin To Net: NetName=NetIN3_5 Pin=IN3-5
+Added Pin To Net: NetName=NetIN3_5 Pin=R19-2
+Added Net: Name=NetIN3_5
+Added Pin To Net: NetName=NetIN3_6 Pin=IN3-6
+Added Pin To Net: NetName=NetIN3_6 Pin=R20-2
+Added Net: Name=NetIN3_6
+Added Pin To Net: NetName=NetIN3_7 Pin=IN3-7
+Added Pin To Net: NetName=NetIN3_7 Pin=R21-2
+Added Net: Name=NetIN3_7
+Added Pin To Net: NetName=NetIN4_1 Pin=IN4-1
+Added Pin To Net: NetName=NetIN4_1 Pin=R22-2
+Added Net: Name=NetIN4_1
+Added Pin To Net: NetName=NetIN4_2 Pin=IN4-2
+Added Pin To Net: NetName=NetIN4_2 Pin=R23-2
+Added Net: Name=NetIN4_2
+Added Pin To Net: NetName=NetIN4_3 Pin=IN4-3
+Added Pin To Net: NetName=NetIN4_3 Pin=R24-2
+Added Net: Name=NetIN4_3
+Added Pin To Net: NetName=NetIN4_4 Pin=IN4-4
+Added Pin To Net: NetName=NetIN4_4 Pin=R25-2
+Added Net: Name=NetIN4_4
+Added Pin To Net: NetName=NetIN4_5 Pin=IN4-5
+Added Pin To Net: NetName=NetIN4_5 Pin=R26-2
+Added Net: Name=NetIN4_5
+Added Pin To Net: NetName=NetIN4_6 Pin=IN4-6
+Added Pin To Net: NetName=NetIN4_6 Pin=R27-2
+Added Net: Name=NetIN4_6
+Added Pin To Net: NetName=NetIN4_7 Pin=IN4-7
+Added Pin To Net: NetName=NetIN4_7 Pin=R28-2
+Added Net: Name=NetIN4_7
+Added Pin To Net: NetName=NetIN5_1 Pin=IN5-1
+Added Pin To Net: NetName=NetIN5_1 Pin=R29-1
+Added Net: Name=NetIN5_1
+Added Pin To Net: NetName=NetIN5_2 Pin=IN5-2
+Added Pin To Net: NetName=NetIN5_2 Pin=R30-1
+Added Net: Name=NetIN5_2
+Added Pin To Net: NetName=NetIN5_3 Pin=IN5-3
+Added Pin To Net: NetName=NetIN5_3 Pin=R31-1
+Added Net: Name=NetIN5_3
+Added Pin To Net: NetName=NetIN5_4 Pin=IN5-4
+Added Pin To Net: NetName=NetIN5_4 Pin=R32-1
+Added Net: Name=NetIN5_4
+Added Pin To Net: NetName=NetIN5_5 Pin=IN5-5
+Added Pin To Net: NetName=NetIN5_5 Pin=SR1-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR2-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR3-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR4-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR5-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR6-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR7-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR8-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR9-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR10-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR11-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR12-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR13-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR14-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR15-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR16-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR17-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR18-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR19-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR20-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR21-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR22-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR23-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR24-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR25-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR26-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR27-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR28-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR29-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR30-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR31-12
+Added Pin To Net: NetName=NetIN5_5 Pin=SR32-12
+Added Net: Name=NetIN5_5
+Added Pin To Net: NetName=NetIN5_6 Pin=IN5-6
+Added Pin To Net: NetName=NetIN5_6 Pin=SR1-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR2-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR3-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR4-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR5-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR6-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR7-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR8-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR9-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR10-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR11-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR12-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR13-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR14-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR15-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR16-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR17-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR18-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR19-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR20-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR21-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR22-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR23-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR24-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR25-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR26-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR27-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR28-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR29-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR30-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR31-11
+Added Pin To Net: NetName=NetIN5_6 Pin=SR32-11
+Added Net: Name=NetIN5_6
+Added Pin To Net: NetName=NetJP_1 Pin=JP-1
+Added Pin To Net: NetName=NetJP_1 Pin=SR1-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR1-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR2-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR2-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR3-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR3-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR4-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR4-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR5-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR5-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR6-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR6-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR7-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR7-16
+Added Pin To Net: NetName=NetJP_1 Pin=SR29-10
+Added Pin To Net: NetName=NetJP_1 Pin=SR29-16
+Added Net: Name=NetJP_1
+Added Pin To Net: NetName=NetJP_3 Pin=JP-3
+Added Pin To Net: NetName=NetJP_3 Pin=SR8-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR8-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR9-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR9-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR10-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR10-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR11-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR11-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR12-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR12-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR13-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR13-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR14-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR14-16
+Added Pin To Net: NetName=NetJP_3 Pin=SR30-10
+Added Pin To Net: NetName=NetJP_3 Pin=SR30-16
+Added Net: Name=NetJP_3
+Added Pin To Net: NetName=NetJP_5 Pin=JP-5
+Added Pin To Net: NetName=NetJP_5 Pin=SR15-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR15-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR16-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR16-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR17-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR17-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR18-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR18-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR19-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR19-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR20-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR20-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR21-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR21-16
+Added Pin To Net: NetName=NetJP_5 Pin=SR31-10
+Added Pin To Net: NetName=NetJP_5 Pin=SR31-16
+Added Net: Name=NetJP_5
+Added Pin To Net: NetName=NetJP_7 Pin=JP-7
+Added Pin To Net: NetName=NetJP_7 Pin=SR22-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR22-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR23-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR23-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR24-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR24-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR25-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR25-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR26-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR26-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR27-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR27-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR28-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR28-16
+Added Pin To Net: NetName=NetJP_7 Pin=SR32-10
+Added Pin To Net: NetName=NetJP_7 Pin=SR32-16
+Added Net: Name=NetJP_7
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SR1-14
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=SR2-14
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SR3-14
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SR4-14
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SR5-14
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SR6-14
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SR7-14
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=SR8-14
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=SR9-14
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=SR10-14
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=SR11-14
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SR12-14
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=SR13-14
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=SR14-14
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=SR15-14
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=SR16-14
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=SR17-14
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=SR18-14
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=SR19-14
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=SR20-14
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=SR21-14
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=SR22-14
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=SR23-14
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=SR24-14
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=SR25-14
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=SR26-14
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=SR27-14
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=SR28-14
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=SR29-14
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=SR30-14
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=SR31-14
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=SR32-14
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=SR1A Pin=J1-21
+Added Pin To Net: NetName=SR1A Pin=SR1-15
+Added Net: Name=SR1A
+Added Pin To Net: NetName=SR1B Pin=J1-22
+Added Pin To Net: NetName=SR1B Pin=SR1-1
+Added Net: Name=SR1B
+Added Pin To Net: NetName=SR1C Pin=J1-23
+Added Pin To Net: NetName=SR1C Pin=SR1-2
+Added Net: Name=SR1C
+Added Pin To Net: NetName=SR1D Pin=J1-24
+Added Pin To Net: NetName=SR1D Pin=SR1-3
+Added Net: Name=SR1D
+Added Pin To Net: NetName=SR1E Pin=J1-25
+Added Pin To Net: NetName=SR1E Pin=SR1-4
+Added Net: Name=SR1E
+Added Pin To Net: NetName=SR1F Pin=J1-26
+Added Pin To Net: NetName=SR1F Pin=SR1-5
+Added Net: Name=SR1F
+Added Pin To Net: NetName=SR1G Pin=J1-27
+Added Pin To Net: NetName=SR1G Pin=SR1-6
+Added Net: Name=SR1G
+Added Pin To Net: NetName=SR1H Pin=J1-28
+Added Pin To Net: NetName=SR1H Pin=SR1-7
+Added Net: Name=SR1H
+Added Pin To Net: NetName=SR2A Pin=J2-53
+Added Pin To Net: NetName=SR2A Pin=SR2-15
+Added Net: Name=SR2A
+Added Pin To Net: NetName=SR2B Pin=J2-54
+Added Pin To Net: NetName=SR2B Pin=SR2-1
+Added Net: Name=SR2B
+Added Pin To Net: NetName=SR2C Pin=J2-55
+Added Pin To Net: NetName=SR2C Pin=SR2-2
+Added Net: Name=SR2C
+Added Pin To Net: NetName=SR2D Pin=J2-56
+Added Pin To Net: NetName=SR2D Pin=SR2-3
+Added Net: Name=SR2D
+Added Pin To Net: NetName=SR2E Pin=J2-57
+Added Pin To Net: NetName=SR2E Pin=SR2-4
+Added Net: Name=SR2E
+Added Pin To Net: NetName=SR2F Pin=J2-58
+Added Pin To Net: NetName=SR2F Pin=SR2-5
+Added Net: Name=SR2F
+Added Pin To Net: NetName=SR2G Pin=J2-59
+Added Pin To Net: NetName=SR2G Pin=SR2-6
+Added Net: Name=SR2G
+Added Pin To Net: NetName=SR2H Pin=J2-60
+Added Pin To Net: NetName=SR2H Pin=SR2-7
+Added Net: Name=SR2H
+Added Pin To Net: NetName=SR3A Pin=J1-29
+Added Pin To Net: NetName=SR3A Pin=SR3-15
+Added Net: Name=SR3A
+Added Pin To Net: NetName=SR3B Pin=J1-30
+Added Pin To Net: NetName=SR3B Pin=SR3-1
+Added Net: Name=SR3B
+Added Pin To Net: NetName=SR3C Pin=J1-31
+Added Pin To Net: NetName=SR3C Pin=SR3-2
+Added Net: Name=SR3C
+Added Pin To Net: NetName=SR3D Pin=J1-32
+Added Pin To Net: NetName=SR3D Pin=SR3-3
+Added Net: Name=SR3D
+Added Pin To Net: NetName=SR3E Pin=J1-33
+Added Pin To Net: NetName=SR3E Pin=SR3-4
+Added Net: Name=SR3E
+Added Pin To Net: NetName=SR3F Pin=J1-34
+Added Pin To Net: NetName=SR3F Pin=SR3-5
+Added Net: Name=SR3F
+Added Pin To Net: NetName=SR3G Pin=J1-35
+Added Pin To Net: NetName=SR3G Pin=SR3-6
+Added Net: Name=SR3G
+Added Pin To Net: NetName=SR3H Pin=J1-36
+Added Pin To Net: NetName=SR3H Pin=SR3-7
+Added Net: Name=SR3H
+Added Pin To Net: NetName=SR4A Pin=J2-45
+Added Pin To Net: NetName=SR4A Pin=SR4-15
+Added Net: Name=SR4A
+Added Pin To Net: NetName=SR4B Pin=J2-46
+Added Pin To Net: NetName=SR4B Pin=SR4-1
+Added Net: Name=SR4B
+Added Pin To Net: NetName=SR4C Pin=J2-47
+Added Pin To Net: NetName=SR4C Pin=SR4-2
+Added Net: Name=SR4C
+Added Pin To Net: NetName=SR4D Pin=J2-48
+Added Pin To Net: NetName=SR4D Pin=SR4-3
+Added Net: Name=SR4D
+Added Pin To Net: NetName=SR4E Pin=J2-49
+Added Pin To Net: NetName=SR4E Pin=SR4-4
+Added Net: Name=SR4E
+Added Pin To Net: NetName=SR4F Pin=J2-50
+Added Pin To Net: NetName=SR4F Pin=SR4-5
+Added Net: Name=SR4F
+Added Pin To Net: NetName=SR4G Pin=J2-51
+Added Pin To Net: NetName=SR4G Pin=SR4-6
+Added Net: Name=SR4G
+Added Pin To Net: NetName=SR4H Pin=J2-52
+Added Pin To Net: NetName=SR4H Pin=SR4-7
+Added Net: Name=SR4H
+Added Pin To Net: NetName=SR5A Pin=J1-45
+Added Pin To Net: NetName=SR5A Pin=SR5-15
+Added Net: Name=SR5A
+Added Pin To Net: NetName=SR5B Pin=J1-46
+Added Pin To Net: NetName=SR5B Pin=SR5-1
+Added Net: Name=SR5B
+Added Pin To Net: NetName=SR5C Pin=J1-47
+Added Pin To Net: NetName=SR5C Pin=SR5-2
+Added Net: Name=SR5C
+Added Pin To Net: NetName=SR5D Pin=J1-48
+Added Pin To Net: NetName=SR5D Pin=SR5-3
+Added Net: Name=SR5D
+Added Pin To Net: NetName=SR5E Pin=J1-49
+Added Pin To Net: NetName=SR5E Pin=SR5-4
+Added Net: Name=SR5E
+Added Pin To Net: NetName=SR5F Pin=J1-50
+Added Pin To Net: NetName=SR5F Pin=SR5-5
+Added Net: Name=SR5F
+Added Pin To Net: NetName=SR5G Pin=J1-51
+Added Pin To Net: NetName=SR5G Pin=SR5-6
+Added Net: Name=SR5G
+Added Pin To Net: NetName=SR5H Pin=J1-52
+Added Pin To Net: NetName=SR5H Pin=SR5-7
+Added Net: Name=SR5H
+Added Pin To Net: NetName=SR6A Pin=J2-29
+Added Pin To Net: NetName=SR6A Pin=SR6-15
+Added Net: Name=SR6A
+Added Pin To Net: NetName=SR6B Pin=J2-30
+Added Pin To Net: NetName=SR6B Pin=SR6-1
+Added Net: Name=SR6B
+Added Pin To Net: NetName=SR6C Pin=J2-31
+Added Pin To Net: NetName=SR6C Pin=SR6-2
+Added Net: Name=SR6C
+Added Pin To Net: NetName=SR6D Pin=J2-32
+Added Pin To Net: NetName=SR6D Pin=SR6-3
+Added Net: Name=SR6D
+Added Pin To Net: NetName=SR6E Pin=J2-33
+Added Pin To Net: NetName=SR6E Pin=SR6-4
+Added Net: Name=SR6E
+Added Pin To Net: NetName=SR6F Pin=J2-34
+Added Pin To Net: NetName=SR6F Pin=SR6-5
+Added Net: Name=SR6F
+Added Pin To Net: NetName=SR6G Pin=J2-35
+Added Pin To Net: NetName=SR6G Pin=SR6-6
+Added Net: Name=SR6G
+Added Pin To Net: NetName=SR6H Pin=J2-36
+Added Pin To Net: NetName=SR6H Pin=SR6-7
+Added Net: Name=SR6H
+Added Pin To Net: NetName=SR7A Pin=J1-53
+Added Pin To Net: NetName=SR7A Pin=SR7-15
+Added Net: Name=SR7A
+Added Pin To Net: NetName=SR7B Pin=J1-54
+Added Pin To Net: NetName=SR7B Pin=SR7-1
+Added Net: Name=SR7B
+Added Pin To Net: NetName=SR7C Pin=J1-55
+Added Pin To Net: NetName=SR7C Pin=SR7-2
+Added Net: Name=SR7C
+Added Pin To Net: NetName=SR7D Pin=J1-56
+Added Pin To Net: NetName=SR7D Pin=SR7-3
+Added Net: Name=SR7D
+Added Pin To Net: NetName=SR7E Pin=J1-57
+Added Pin To Net: NetName=SR7E Pin=SR7-4
+Added Net: Name=SR7E
+Added Pin To Net: NetName=SR7F Pin=J1-58
+Added Pin To Net: NetName=SR7F Pin=SR7-5
+Added Net: Name=SR7F
+Added Pin To Net: NetName=SR7G Pin=J1-59
+Added Pin To Net: NetName=SR7G Pin=SR7-6
+Added Net: Name=SR7G
+Added Pin To Net: NetName=SR7H Pin=J1-60
+Added Pin To Net: NetName=SR7H Pin=SR7-7
+Added Net: Name=SR7H
+Added Pin To Net: NetName=SR8A Pin=J2-21
+Added Pin To Net: NetName=SR8A Pin=SR8-15
+Added Net: Name=SR8A
+Added Pin To Net: NetName=SR8B Pin=J2-22
+Added Pin To Net: NetName=SR8B Pin=SR8-1
+Added Net: Name=SR8B
+Added Pin To Net: NetName=SR8C Pin=J2-23
+Added Pin To Net: NetName=SR8C Pin=SR8-2
+Added Net: Name=SR8C
+Added Pin To Net: NetName=SR8D Pin=J2-24
+Added Pin To Net: NetName=SR8D Pin=SR8-3
+Added Net: Name=SR8D
+Added Pin To Net: NetName=SR8E Pin=J2-25
+Added Pin To Net: NetName=SR8E Pin=SR8-4
+Added Net: Name=SR8E
+Added Pin To Net: NetName=SR8F Pin=J2-26
+Added Pin To Net: NetName=SR8F Pin=SR8-5
+Added Net: Name=SR8F
+Added Pin To Net: NetName=SR8G Pin=J2-27
+Added Pin To Net: NetName=SR8G Pin=SR8-6
+Added Net: Name=SR8G
+Added Pin To Net: NetName=SR8H Pin=J2-28
+Added Pin To Net: NetName=SR8H Pin=SR8-7
+Added Net: Name=SR8H
+Added Pin To Net: NetName=SR9A Pin=J1-61
+Added Pin To Net: NetName=SR9A Pin=SR9-15
+Added Net: Name=SR9A
+Added Pin To Net: NetName=SR9B Pin=J1-62
+Added Pin To Net: NetName=SR9B Pin=SR9-1
+Added Net: Name=SR9B
+Added Pin To Net: NetName=SR9C Pin=J1-63
+Added Pin To Net: NetName=SR9C Pin=SR9-2
+Added Net: Name=SR9C
+Added Pin To Net: NetName=SR9D Pin=J1-64
+Added Pin To Net: NetName=SR9D Pin=SR9-3
+Added Net: Name=SR9D
+Added Pin To Net: NetName=SR9E Pin=J1-65
+Added Pin To Net: NetName=SR9E Pin=SR9-4
+Added Net: Name=SR9E
+Added Pin To Net: NetName=SR9F Pin=J1-66
+Added Pin To Net: NetName=SR9F Pin=SR9-5
+Added Net: Name=SR9F
+Added Pin To Net: NetName=SR9G Pin=J1-67
+Added Pin To Net: NetName=SR9G Pin=SR9-6
+Added Net: Name=SR9G
+Added Pin To Net: NetName=SR9H Pin=J1-68
+Added Pin To Net: NetName=SR9H Pin=SR9-7
+Added Net: Name=SR9H
+Added Pin To Net: NetName=SR10A Pin=J2-13
+Added Pin To Net: NetName=SR10A Pin=SR10-15
+Added Net: Name=SR10A
+Added Pin To Net: NetName=SR10B Pin=J2-14
+Added Pin To Net: NetName=SR10B Pin=SR10-1
+Added Net: Name=SR10B
+Added Pin To Net: NetName=SR10C Pin=J2-15
+Added Pin To Net: NetName=SR10C Pin=SR10-2
+Added Net: Name=SR10C
+Added Pin To Net: NetName=SR10D Pin=J2-16
+Added Pin To Net: NetName=SR10D Pin=SR10-3
+Added Net: Name=SR10D
+Added Pin To Net: NetName=SR10E Pin=J2-17
+Added Pin To Net: NetName=SR10E Pin=SR10-4
+Added Net: Name=SR10E
+Added Pin To Net: NetName=SR10F Pin=J2-18
+Added Pin To Net: NetName=SR10F Pin=SR10-5
+Added Net: Name=SR10F
+Added Pin To Net: NetName=SR10G Pin=J2-19
+Added Pin To Net: NetName=SR10G Pin=SR10-6
+Added Net: Name=SR10G
+Added Pin To Net: NetName=SR10H Pin=J2-20
+Added Pin To Net: NetName=SR10H Pin=SR10-7
+Added Net: Name=SR10H
+Added Pin To Net: NetName=SR11A Pin=J1-69
+Added Pin To Net: NetName=SR11A Pin=SR11-15
+Added Net: Name=SR11A
+Added Pin To Net: NetName=SR11B Pin=J1-70
+Added Pin To Net: NetName=SR11B Pin=SR11-1
+Added Net: Name=SR11B
+Added Pin To Net: NetName=SR11C Pin=J1-71
+Added Pin To Net: NetName=SR11C Pin=SR11-2
+Added Net: Name=SR11C
+Added Pin To Net: NetName=SR11D Pin=J1-72
+Added Pin To Net: NetName=SR11D Pin=SR11-3
+Added Net: Name=SR11D
+Added Pin To Net: NetName=SR11E Pin=J1-73
+Added Pin To Net: NetName=SR11E Pin=SR11-4
+Added Net: Name=SR11E
+Added Pin To Net: NetName=SR11F Pin=J1-74
+Added Pin To Net: NetName=SR11F Pin=SR11-5
+Added Net: Name=SR11F
+Added Pin To Net: NetName=SR11G Pin=J1-75
+Added Pin To Net: NetName=SR11G Pin=SR11-6
+Added Net: Name=SR11G
+Added Pin To Net: NetName=SR11H Pin=J1-76
+Added Pin To Net: NetName=SR11H Pin=SR11-7
+Added Net: Name=SR11H
+Added Pin To Net: NetName=SR12A Pin=J2-5
+Added Pin To Net: NetName=SR12A Pin=SR12-15
+Added Net: Name=SR12A
+Added Pin To Net: NetName=SR12B Pin=J2-6
+Added Pin To Net: NetName=SR12B Pin=SR12-1
+Added Net: Name=SR12B
+Added Pin To Net: NetName=SR12C Pin=J2-7
+Added Pin To Net: NetName=SR12C Pin=SR12-2
+Added Net: Name=SR12C
+Added Pin To Net: NetName=SR12D Pin=J2-8
+Added Pin To Net: NetName=SR12D Pin=SR12-3
+Added Net: Name=SR12D
+Added Pin To Net: NetName=SR12E Pin=J2-9
+Added Pin To Net: NetName=SR12E Pin=SR12-4
+Added Net: Name=SR12E
+Added Pin To Net: NetName=SR12F Pin=J2-10
+Added Pin To Net: NetName=SR12F Pin=SR12-5
+Added Net: Name=SR12F
+Added Pin To Net: NetName=SR12G Pin=J2-11
+Added Pin To Net: NetName=SR12G Pin=SR12-6
+Added Net: Name=SR12G
+Added Pin To Net: NetName=SR12H Pin=J2-12
+Added Pin To Net: NetName=SR12H Pin=SR12-7
+Added Net: Name=SR12H
+Added Pin To Net: NetName=SR13A Pin=J1-5
+Added Pin To Net: NetName=SR13A Pin=SR13-15
+Added Net: Name=SR13A
+Added Pin To Net: NetName=SR13B Pin=J1-6
+Added Pin To Net: NetName=SR13B Pin=SR13-1
+Added Net: Name=SR13B
+Added Pin To Net: NetName=SR13C Pin=J1-7
+Added Pin To Net: NetName=SR13C Pin=SR13-2
+Added Net: Name=SR13C
+Added Pin To Net: NetName=SR13D Pin=J1-8
+Added Pin To Net: NetName=SR13D Pin=SR13-3
+Added Net: Name=SR13D
+Added Pin To Net: NetName=SR13E Pin=J1-9
+Added Pin To Net: NetName=SR13E Pin=SR13-4
+Added Net: Name=SR13E
+Added Pin To Net: NetName=SR13F Pin=J1-10
+Added Pin To Net: NetName=SR13F Pin=SR13-5
+Added Net: Name=SR13F
+Added Pin To Net: NetName=SR13G Pin=J1-11
+Added Pin To Net: NetName=SR13G Pin=SR13-6
+Added Net: Name=SR13G
+Added Pin To Net: NetName=SR13H Pin=J1-12
+Added Pin To Net: NetName=SR13H Pin=SR13-7
+Added Net: Name=SR13H
+Added Pin To Net: NetName=SR14A Pin=J2-69
+Added Pin To Net: NetName=SR14A Pin=SR14-15
+Added Net: Name=SR14A
+Added Pin To Net: NetName=SR14B Pin=J2-70
+Added Pin To Net: NetName=SR14B Pin=SR14-1
+Added Net: Name=SR14B
+Added Pin To Net: NetName=SR14C Pin=J2-71
+Added Pin To Net: NetName=SR14C Pin=SR14-2
+Added Net: Name=SR14C
+Added Pin To Net: NetName=SR14D Pin=J2-72
+Added Pin To Net: NetName=SR14D Pin=SR14-3
+Added Net: Name=SR14D
+Added Pin To Net: NetName=SR14E Pin=J2-73
+Added Pin To Net: NetName=SR14E Pin=SR14-4
+Added Net: Name=SR14E
+Added Pin To Net: NetName=SR14F Pin=J2-74
+Added Pin To Net: NetName=SR14F Pin=SR14-5
+Added Net: Name=SR14F
+Added Pin To Net: NetName=SR14G Pin=J2-75
+Added Pin To Net: NetName=SR14G Pin=SR14-6
+Added Net: Name=SR14G
+Added Pin To Net: NetName=SR14H Pin=J2-76
+Added Pin To Net: NetName=SR14H Pin=SR14-7
+Added Net: Name=SR14H
+Added Pin To Net: NetName=SR15A Pin=J1-13
+Added Pin To Net: NetName=SR15A Pin=SR15-15
+Added Net: Name=SR15A
+Added Pin To Net: NetName=SR15B Pin=J1-14
+Added Pin To Net: NetName=SR15B Pin=SR15-1
+Added Net: Name=SR15B
+Added Pin To Net: NetName=SR15C Pin=J1-15
+Added Pin To Net: NetName=SR15C Pin=SR15-2
+Added Net: Name=SR15C
+Added Pin To Net: NetName=SR15D Pin=J1-16
+Added Pin To Net: NetName=SR15D Pin=SR15-3
+Added Net: Name=SR15D
+Added Pin To Net: NetName=SR15E Pin=J1-17
+Added Pin To Net: NetName=SR15E Pin=SR15-4
+Added Net: Name=SR15E
+Added Pin To Net: NetName=SR15F Pin=J1-18
+Added Pin To Net: NetName=SR15F Pin=SR15-5
+Added Net: Name=SR15F
+Added Pin To Net: NetName=SR15G Pin=J1-19
+Added Pin To Net: NetName=SR15G Pin=SR15-6
+Added Net: Name=SR15G
+Added Pin To Net: NetName=SR15H Pin=J1-20
+Added Pin To Net: NetName=SR15H Pin=SR15-7
+Added Net: Name=SR15H
+Added Pin To Net: NetName=SR16A Pin=J2-61
+Added Pin To Net: NetName=SR16A Pin=SR16-15
+Added Net: Name=SR16A
+Added Pin To Net: NetName=SR16B Pin=J2-62
+Added Pin To Net: NetName=SR16B Pin=SR16-1
+Added Net: Name=SR16B
+Added Pin To Net: NetName=SR16C Pin=J2-63
+Added Pin To Net: NetName=SR16C Pin=SR16-2
+Added Net: Name=SR16C
+Added Pin To Net: NetName=SR16D Pin=J2-64
+Added Pin To Net: NetName=SR16D Pin=SR16-3
+Added Net: Name=SR16D
+Added Pin To Net: NetName=SR16E Pin=J2-65
+Added Pin To Net: NetName=SR16E Pin=SR16-4
+Added Net: Name=SR16E
+Added Pin To Net: NetName=SR16F Pin=J2-66
+Added Pin To Net: NetName=SR16F Pin=SR16-5
+Added Net: Name=SR16F
+Added Pin To Net: NetName=SR16G Pin=J2-67
+Added Pin To Net: NetName=SR16G Pin=SR16-6
+Added Net: Name=SR16G
+Added Pin To Net: NetName=SR16H Pin=J2-68
+Added Pin To Net: NetName=SR16H Pin=SR16-7
+Added Net: Name=SR16H
+Added Pin To Net: NetName=SR17A Pin=J3-21
+Added Pin To Net: NetName=SR17A Pin=SR17-15
+Added Net: Name=SR17A
+Added Pin To Net: NetName=SR17B Pin=J3-22
+Added Pin To Net: NetName=SR17B Pin=SR17-1
+Added Net: Name=SR17B
+Added Pin To Net: NetName=SR17C Pin=J3-23
+Added Pin To Net: NetName=SR17C Pin=SR17-2
+Added Net: Name=SR17C
+Added Pin To Net: NetName=SR17D Pin=J3-24
+Added Pin To Net: NetName=SR17D Pin=SR17-3
+Added Net: Name=SR17D
+Added Pin To Net: NetName=SR17E Pin=J3-25
+Added Pin To Net: NetName=SR17E Pin=SR17-4
+Added Net: Name=SR17E
+Added Pin To Net: NetName=SR17F Pin=J3-26
+Added Pin To Net: NetName=SR17F Pin=SR17-5
+Added Net: Name=SR17F
+Added Pin To Net: NetName=SR17G Pin=J3-27
+Added Pin To Net: NetName=SR17G Pin=SR17-6
+Added Net: Name=SR17G
+Added Pin To Net: NetName=SR17H Pin=J3-28
+Added Pin To Net: NetName=SR17H Pin=SR17-7
+Added Net: Name=SR17H
+Added Pin To Net: NetName=SR18A Pin=J4-53
+Added Pin To Net: NetName=SR18A Pin=SR18-15
+Added Net: Name=SR18A
+Added Pin To Net: NetName=SR18B Pin=J4-54
+Added Pin To Net: NetName=SR18B Pin=SR18-1
+Added Net: Name=SR18B
+Added Pin To Net: NetName=SR18C Pin=J4-55
+Added Pin To Net: NetName=SR18C Pin=SR18-2
+Added Net: Name=SR18C
+Added Pin To Net: NetName=SR18D Pin=J4-56
+Added Pin To Net: NetName=SR18D Pin=SR18-3
+Added Net: Name=SR18D
+Added Pin To Net: NetName=SR18E Pin=J4-57
+Added Pin To Net: NetName=SR18E Pin=SR18-4
+Added Net: Name=SR18E
+Added Pin To Net: NetName=SR18F Pin=J4-58
+Added Pin To Net: NetName=SR18F Pin=SR18-5
+Added Net: Name=SR18F
+Added Pin To Net: NetName=SR18G Pin=J4-59
+Added Pin To Net: NetName=SR18G Pin=SR18-6
+Added Net: Name=SR18G
+Added Pin To Net: NetName=SR18H Pin=J4-60
+Added Pin To Net: NetName=SR18H Pin=SR18-7
+Added Net: Name=SR18H
+Added Pin To Net: NetName=SR19A Pin=J3-29
+Added Pin To Net: NetName=SR19A Pin=SR19-15
+Added Net: Name=SR19A
+Added Pin To Net: NetName=SR19B Pin=J3-30
+Added Pin To Net: NetName=SR19B Pin=SR19-1
+Added Net: Name=SR19B
+Added Pin To Net: NetName=SR19C Pin=J3-31
+Added Pin To Net: NetName=SR19C Pin=SR19-2
+Added Net: Name=SR19C
+Added Pin To Net: NetName=SR19D Pin=J3-32
+Added Pin To Net: NetName=SR19D Pin=SR19-3
+Added Net: Name=SR19D
+Added Pin To Net: NetName=SR19E Pin=J3-33
+Added Pin To Net: NetName=SR19E Pin=SR19-4
+Added Net: Name=SR19E
+Added Pin To Net: NetName=SR19F Pin=J3-34
+Added Pin To Net: NetName=SR19F Pin=SR19-5
+Added Net: Name=SR19F
+Added Pin To Net: NetName=SR19G Pin=J3-35
+Added Pin To Net: NetName=SR19G Pin=SR19-6
+Added Net: Name=SR19G
+Added Pin To Net: NetName=SR19H Pin=J3-36
+Added Pin To Net: NetName=SR19H Pin=SR19-7
+Added Net: Name=SR19H
+Added Pin To Net: NetName=SR20A Pin=J4-45
+Added Pin To Net: NetName=SR20A Pin=SR20-15
+Added Net: Name=SR20A
+Added Pin To Net: NetName=SR20B Pin=J4-46
+Added Pin To Net: NetName=SR20B Pin=SR20-1
+Added Net: Name=SR20B
+Added Pin To Net: NetName=SR20C Pin=J4-47
+Added Pin To Net: NetName=SR20C Pin=SR20-2
+Added Net: Name=SR20C
+Added Pin To Net: NetName=SR20D Pin=J4-48
+Added Pin To Net: NetName=SR20D Pin=SR20-3
+Added Net: Name=SR20D
+Added Pin To Net: NetName=SR20E Pin=J4-49
+Added Pin To Net: NetName=SR20E Pin=SR20-4
+Added Net: Name=SR20E
+Added Pin To Net: NetName=SR20F Pin=J4-50
+Added Pin To Net: NetName=SR20F Pin=SR20-5
+Added Net: Name=SR20F
+Added Pin To Net: NetName=SR20G Pin=J4-51
+Added Pin To Net: NetName=SR20G Pin=SR20-6
+Added Net: Name=SR20G
+Added Pin To Net: NetName=SR20H Pin=J4-52
+Added Pin To Net: NetName=SR20H Pin=SR20-7
+Added Net: Name=SR20H
+Added Pin To Net: NetName=SR21A Pin=J3-45
+Added Pin To Net: NetName=SR21A Pin=SR21-15
+Added Net: Name=SR21A
+Added Pin To Net: NetName=SR21B Pin=J3-46
+Added Pin To Net: NetName=SR21B Pin=SR21-1
+Added Net: Name=SR21B
+Added Pin To Net: NetName=SR21C Pin=J3-47
+Added Pin To Net: NetName=SR21C Pin=SR21-2
+Added Net: Name=SR21C
+Added Pin To Net: NetName=SR21D Pin=J3-48
+Added Pin To Net: NetName=SR21D Pin=SR21-3
+Added Net: Name=SR21D
+Added Pin To Net: NetName=SR21E Pin=J3-49
+Added Pin To Net: NetName=SR21E Pin=SR21-4
+Added Net: Name=SR21E
+Added Pin To Net: NetName=SR21F Pin=J3-50
+Added Pin To Net: NetName=SR21F Pin=SR21-5
+Added Net: Name=SR21F
+Added Pin To Net: NetName=SR21G Pin=J3-51
+Added Pin To Net: NetName=SR21G Pin=SR21-6
+Added Net: Name=SR21G
+Added Pin To Net: NetName=SR21H Pin=J3-52
+Added Pin To Net: NetName=SR21H Pin=SR21-7
+Added Net: Name=SR21H
+Added Pin To Net: NetName=SR22A Pin=J4-29
+Added Pin To Net: NetName=SR22A Pin=SR22-15
+Added Net: Name=SR22A
+Added Pin To Net: NetName=SR22B Pin=J4-30
+Added Pin To Net: NetName=SR22B Pin=SR22-1
+Added Net: Name=SR22B
+Added Pin To Net: NetName=SR22C Pin=J4-31
+Added Pin To Net: NetName=SR22C Pin=SR22-2
+Added Net: Name=SR22C
+Added Pin To Net: NetName=SR22D Pin=J4-32
+Added Pin To Net: NetName=SR22D Pin=SR22-3
+Added Net: Name=SR22D
+Added Pin To Net: NetName=SR22E Pin=J4-33
+Added Pin To Net: NetName=SR22E Pin=SR22-4
+Added Net: Name=SR22E
+Added Pin To Net: NetName=SR22F Pin=J4-34
+Added Pin To Net: NetName=SR22F Pin=SR22-5
+Added Net: Name=SR22F
+Added Pin To Net: NetName=SR22G Pin=J4-35
+Added Pin To Net: NetName=SR22G Pin=SR22-6
+Added Net: Name=SR22G
+Added Pin To Net: NetName=SR22H Pin=J4-36
+Added Pin To Net: NetName=SR22H Pin=SR22-7
+Added Net: Name=SR22H
+Added Pin To Net: NetName=SR23A Pin=J3-53
+Added Pin To Net: NetName=SR23A Pin=SR23-15
+Added Net: Name=SR23A
+Added Pin To Net: NetName=SR23B Pin=J3-54
+Added Pin To Net: NetName=SR23B Pin=SR23-1
+Added Net: Name=SR23B
+Added Pin To Net: NetName=SR23C Pin=J3-55
+Added Pin To Net: NetName=SR23C Pin=SR23-2
+Added Net: Name=SR23C
+Added Pin To Net: NetName=SR23D Pin=J3-56
+Added Pin To Net: NetName=SR23D Pin=SR23-3
+Added Net: Name=SR23D
+Added Pin To Net: NetName=SR23E Pin=J3-57
+Added Pin To Net: NetName=SR23E Pin=SR23-4
+Added Net: Name=SR23E
+Added Pin To Net: NetName=SR23F Pin=J3-58
+Added Pin To Net: NetName=SR23F Pin=SR23-5
+Added Net: Name=SR23F
+Added Pin To Net: NetName=SR23G Pin=J3-59
+Added Pin To Net: NetName=SR23G Pin=SR23-6
+Added Net: Name=SR23G
+Added Pin To Net: NetName=SR23H Pin=J3-60
+Added Pin To Net: NetName=SR23H Pin=SR23-7
+Added Net: Name=SR23H
+Added Pin To Net: NetName=SR24A Pin=J4-21
+Added Pin To Net: NetName=SR24A Pin=SR24-15
+Added Net: Name=SR24A
+Added Pin To Net: NetName=SR24B Pin=J4-22
+Added Pin To Net: NetName=SR24B Pin=SR24-1
+Added Net: Name=SR24B
+Added Pin To Net: NetName=SR24C Pin=J4-23
+Added Pin To Net: NetName=SR24C Pin=SR24-2
+Added Net: Name=SR24C
+Added Pin To Net: NetName=SR24D Pin=J4-24
+Added Pin To Net: NetName=SR24D Pin=SR24-3
+Added Net: Name=SR24D
+Added Pin To Net: NetName=SR24E Pin=J4-25
+Added Pin To Net: NetName=SR24E Pin=SR24-4
+Added Net: Name=SR24E
+Added Pin To Net: NetName=SR24F Pin=J4-26
+Added Pin To Net: NetName=SR24F Pin=SR24-5
+Added Net: Name=SR24F
+Added Pin To Net: NetName=SR24G Pin=J4-27
+Added Pin To Net: NetName=SR24G Pin=SR24-6
+Added Net: Name=SR24G
+Added Pin To Net: NetName=SR24H Pin=J4-28
+Added Pin To Net: NetName=SR24H Pin=SR24-7
+Added Net: Name=SR24H
+Added Pin To Net: NetName=SR25A Pin=J3-61
+Added Pin To Net: NetName=SR25A Pin=SR25-15
+Added Net: Name=SR25A
+Added Pin To Net: NetName=SR25B Pin=J3-62
+Added Pin To Net: NetName=SR25B Pin=SR25-1
+Added Net: Name=SR25B
+Added Pin To Net: NetName=SR25C Pin=J3-63
+Added Pin To Net: NetName=SR25C Pin=SR25-2
+Added Net: Name=SR25C
+Added Pin To Net: NetName=SR25D Pin=J3-64
+Added Pin To Net: NetName=SR25D Pin=SR25-3
+Added Net: Name=SR25D
+Added Pin To Net: NetName=SR25E Pin=J3-65
+Added Pin To Net: NetName=SR25E Pin=SR25-4
+Added Net: Name=SR25E
+Added Pin To Net: NetName=SR25F Pin=J3-66
+Added Pin To Net: NetName=SR25F Pin=SR25-5
+Added Net: Name=SR25F
+Added Pin To Net: NetName=SR25G Pin=J3-67
+Added Pin To Net: NetName=SR25G Pin=SR25-6
+Added Net: Name=SR25G
+Added Pin To Net: NetName=SR25H Pin=J3-68
+Added Pin To Net: NetName=SR25H Pin=SR25-7
+Added Net: Name=SR25H
+Added Pin To Net: NetName=SR26A Pin=J4-13
+Added Pin To Net: NetName=SR26A Pin=SR26-15
+Added Net: Name=SR26A
+Added Pin To Net: NetName=SR26B Pin=J4-14
+Added Pin To Net: NetName=SR26B Pin=SR26-1
+Added Net: Name=SR26B
+Added Pin To Net: NetName=SR26C Pin=J4-15
+Added Pin To Net: NetName=SR26C Pin=SR26-2
+Added Net: Name=SR26C
+Added Pin To Net: NetName=SR26D Pin=J4-16
+Added Pin To Net: NetName=SR26D Pin=SR26-3
+Added Net: Name=SR26D
+Added Pin To Net: NetName=SR26E Pin=J4-17
+Added Pin To Net: NetName=SR26E Pin=SR26-4
+Added Net: Name=SR26E
+Added Pin To Net: NetName=SR26F Pin=J4-18
+Added Pin To Net: NetName=SR26F Pin=SR26-5
+Added Net: Name=SR26F
+Added Pin To Net: NetName=SR26G Pin=J4-19
+Added Pin To Net: NetName=SR26G Pin=SR26-6
+Added Net: Name=SR26G
+Added Pin To Net: NetName=SR26H Pin=J4-20
+Added Pin To Net: NetName=SR26H Pin=SR26-7
+Added Net: Name=SR26H
+Added Pin To Net: NetName=SR27A Pin=J3-69
+Added Pin To Net: NetName=SR27A Pin=SR27-15
+Added Net: Name=SR27A
+Added Pin To Net: NetName=SR27B Pin=J3-70
+Added Pin To Net: NetName=SR27B Pin=SR27-1
+Added Net: Name=SR27B
+Added Pin To Net: NetName=SR27C Pin=J3-71
+Added Pin To Net: NetName=SR27C Pin=SR27-2
+Added Net: Name=SR27C
+Added Pin To Net: NetName=SR27D Pin=J3-72
+Added Pin To Net: NetName=SR27D Pin=SR27-3
+Added Net: Name=SR27D
+Added Pin To Net: NetName=SR27E Pin=J3-73
+Added Pin To Net: NetName=SR27E Pin=SR27-4
+Added Net: Name=SR27E
+Added Pin To Net: NetName=SR27F Pin=J3-74
+Added Pin To Net: NetName=SR27F Pin=SR27-5
+Added Net: Name=SR27F
+Added Pin To Net: NetName=SR27G Pin=J3-75
+Added Pin To Net: NetName=SR27G Pin=SR27-6
+Added Net: Name=SR27G
+Added Pin To Net: NetName=SR27H Pin=J3-76
+Added Pin To Net: NetName=SR27H Pin=SR27-7
+Added Net: Name=SR27H
+Added Pin To Net: NetName=SR28A Pin=J4-5
+Added Pin To Net: NetName=SR28A Pin=SR28-15
+Added Net: Name=SR28A
+Added Pin To Net: NetName=SR28B Pin=J4-6
+Added Pin To Net: NetName=SR28B Pin=SR28-1
+Added Net: Name=SR28B
+Added Pin To Net: NetName=SR28C Pin=J4-7
+Added Pin To Net: NetName=SR28C Pin=SR28-2
+Added Net: Name=SR28C
+Added Pin To Net: NetName=SR28D Pin=J4-8
+Added Pin To Net: NetName=SR28D Pin=SR28-3
+Added Net: Name=SR28D
+Added Pin To Net: NetName=SR28E Pin=J4-9
+Added Pin To Net: NetName=SR28E Pin=SR28-4
+Added Net: Name=SR28E
+Added Pin To Net: NetName=SR28F Pin=J4-10
+Added Pin To Net: NetName=SR28F Pin=SR28-5
+Added Net: Name=SR28F
+Added Pin To Net: NetName=SR28G Pin=J4-11
+Added Pin To Net: NetName=SR28G Pin=SR28-6
+Added Net: Name=SR28G
+Added Pin To Net: NetName=SR28H Pin=J4-12
+Added Pin To Net: NetName=SR28H Pin=SR28-7
+Added Net: Name=SR28H
+Added Pin To Net: NetName=SR29A Pin=J3-5
+Added Pin To Net: NetName=SR29A Pin=SR29-15
+Added Net: Name=SR29A
+Added Pin To Net: NetName=SR29B Pin=J3-6
+Added Pin To Net: NetName=SR29B Pin=SR29-1
+Added Net: Name=SR29B
+Added Pin To Net: NetName=SR29C Pin=J3-7
+Added Pin To Net: NetName=SR29C Pin=SR29-2
+Added Net: Name=SR29C
+Added Pin To Net: NetName=SR29D Pin=J3-8
+Added Pin To Net: NetName=SR29D Pin=SR29-3
+Added Net: Name=SR29D
+Added Pin To Net: NetName=SR29E Pin=J3-9
+Added Pin To Net: NetName=SR29E Pin=SR29-4
+Added Net: Name=SR29E
+Added Pin To Net: NetName=SR29F Pin=J3-10
+Added Pin To Net: NetName=SR29F Pin=SR29-5
+Added Net: Name=SR29F
+Added Pin To Net: NetName=SR29G Pin=J3-11
+Added Pin To Net: NetName=SR29G Pin=SR29-6
+Added Net: Name=SR29G
+Added Pin To Net: NetName=SR29H Pin=J3-12
+Added Pin To Net: NetName=SR29H Pin=SR29-7
+Added Net: Name=SR29H
+Added Pin To Net: NetName=SR30A Pin=J4-69
+Added Pin To Net: NetName=SR30A Pin=SR30-15
+Added Net: Name=SR30A
+Added Pin To Net: NetName=SR30B Pin=J4-70
+Added Pin To Net: NetName=SR30B Pin=SR30-1
+Added Net: Name=SR30B
+Added Pin To Net: NetName=SR30C Pin=J4-71
+Added Pin To Net: NetName=SR30C Pin=SR30-2
+Added Net: Name=SR30C
+Added Pin To Net: NetName=SR30D Pin=J4-72
+Added Pin To Net: NetName=SR30D Pin=SR30-3
+Added Net: Name=SR30D
+Added Pin To Net: NetName=SR30E Pin=J4-73
+Added Pin To Net: NetName=SR30E Pin=SR30-4
+Added Net: Name=SR30E
+Added Pin To Net: NetName=SR30F Pin=J4-74
+Added Pin To Net: NetName=SR30F Pin=SR30-5
+Added Net: Name=SR30F
+Added Pin To Net: NetName=SR30G Pin=J4-75
+Added Pin To Net: NetName=SR30G Pin=SR30-6
+Added Net: Name=SR30G
+Added Pin To Net: NetName=SR30H Pin=J4-76
+Added Pin To Net: NetName=SR30H Pin=SR30-7
+Added Net: Name=SR30H
+Added Pin To Net: NetName=SR31A Pin=J3-13
+Added Pin To Net: NetName=SR31A Pin=SR31-15
+Added Net: Name=SR31A
+Added Pin To Net: NetName=SR31B Pin=J3-14
+Added Pin To Net: NetName=SR31B Pin=SR31-1
+Added Net: Name=SR31B
+Added Pin To Net: NetName=SR31C Pin=J3-15
+Added Pin To Net: NetName=SR31C Pin=SR31-2
+Added Net: Name=SR31C
+Added Pin To Net: NetName=SR31D Pin=J3-16
+Added Pin To Net: NetName=SR31D Pin=SR31-3
+Added Net: Name=SR31D
+Added Pin To Net: NetName=SR31E Pin=J3-17
+Added Pin To Net: NetName=SR31E Pin=SR31-4
+Added Net: Name=SR31E
+Added Pin To Net: NetName=SR31F Pin=J3-18
+Added Pin To Net: NetName=SR31F Pin=SR31-5
+Added Net: Name=SR31F
+Added Pin To Net: NetName=SR31G Pin=J3-19
+Added Pin To Net: NetName=SR31G Pin=SR31-6
+Added Net: Name=SR31G
+Added Pin To Net: NetName=SR31H Pin=J3-20
+Added Pin To Net: NetName=SR31H Pin=SR31-7
+Added Net: Name=SR31H
+Added Pin To Net: NetName=SR32A Pin=J4-61
+Added Pin To Net: NetName=SR32A Pin=SR32-15
+Added Net: Name=SR32A
+Added Pin To Net: NetName=SR32B Pin=J4-62
+Added Pin To Net: NetName=SR32B Pin=SR32-1
+Added Net: Name=SR32B
+Added Pin To Net: NetName=SR32C Pin=J4-63
+Added Pin To Net: NetName=SR32C Pin=SR32-2
+Added Net: Name=SR32C
+Added Pin To Net: NetName=SR32D Pin=J4-64
+Added Pin To Net: NetName=SR32D Pin=SR32-3
+Added Net: Name=SR32D
+Added Pin To Net: NetName=SR32E Pin=J4-65
+Added Pin To Net: NetName=SR32E Pin=SR32-4
+Added Net: Name=SR32E
+Added Pin To Net: NetName=SR32F Pin=J4-66
+Added Pin To Net: NetName=SR32F Pin=SR32-5
+Added Net: Name=SR32F
+Added Pin To Net: NetName=SR32G Pin=J4-67
+Added Pin To Net: NetName=SR32G Pin=SR32-6
+Added Net: Name=SR32G
+Added Pin To Net: NetName=SR32H Pin=J4-68
+Added Pin To Net: NetName=SR32H Pin=SR32-7
+Added Net: Name=SR32H
+Added Class: Name=main
+Added Class: Name=pin_assignment
+Added Room: Name=main
+Added Room: Name=pin_assignment

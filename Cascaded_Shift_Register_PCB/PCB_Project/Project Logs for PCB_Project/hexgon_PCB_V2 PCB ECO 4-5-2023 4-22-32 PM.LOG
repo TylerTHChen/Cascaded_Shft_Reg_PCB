@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=FMC1 Old Footprint=TSS-120-XX-X-D New Footprint=HDRV40W64P254X254_2X20_5080X508X869P
+Change Component Footprint: Designator=FMC2 Old Footprint=TSS-120-XX-X-D New Footprint=HDRV40W64P254X254_2X20_5080X508X869P
+Change Component Footprint: Designator=FMC3 Old Footprint=TSS-120-XX-X-D New Footprint=HDRV40W64P254X254_2X20_5080X508X869P
+Change Component Comment : Designator=FMC1 Old Comment=TSS-120-01-L-D New Comment=61304021121
+Change Component Comment : Designator=FMC2 Old Comment=TSS-120-01-L-D New Comment=61304021121
+Change Component Comment : Designator=FMC3 Old Comment=TSS-120-01-L-D New Comment=61304021121
+Change component parameters: Designator = "FMC2" ("FMC2"); Footprint = "TSS-120-XX-X-D"; UniqueID = "\HZLNEHCW" ("\HZLNEHCW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61304021121?qs=PhR8RmCirEYWKI5WqdDUyg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FMC3" ("FMC3"); Footprint = "TSS-120-XX-X-D"; UniqueID = "\XXDCHIZJ" ("\XXDCHIZJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61304021121?qs=PhR8RmCirEYWKI5WqdDUyg%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=main Member=Component FMC2 61304021121
+Added Member To Class: ClassName=main Member=Component FMC3 61304021121

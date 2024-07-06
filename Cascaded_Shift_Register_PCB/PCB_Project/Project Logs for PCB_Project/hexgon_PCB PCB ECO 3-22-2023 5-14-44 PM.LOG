@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SR69A Pin=Pmod1-1
+Removed Pin From Net: NetName=SR70A Pin=Pmod1-3
+Removed Pin From Net: NetName=SR71A Pin=Pmod1-5
+Removed Pin From Net: NetName=SR72A Pin=Pmod1-7
+Removed Pin From Net: NetName=SR69A Pin=SR69-14
+Removed Pin From Net: NetName=SR70A Pin=SR70-14
+Removed Pin From Net: NetName=SR71A Pin=SR71-14
+Removed Pin From Net: NetName=SR72A Pin=SR72-14
+Added Pin To Net: NetName=NetPmod1_1 Pin=Pmod1-1
+Added Pin To Net: NetName=NetPmod1_1 Pin=SR69-14
+Added Net: Name=NetPmod1_1
+Added Pin To Net: NetName=NetPmod1_3 Pin=Pmod1-3
+Added Pin To Net: NetName=NetPmod1_3 Pin=SR70-14
+Added Net: Name=NetPmod1_3
+Added Pin To Net: NetName=NetPmod1_5 Pin=Pmod1-5
+Added Pin To Net: NetName=NetPmod1_5 Pin=SR71-14
+Added Net: Name=NetPmod1_5
+Added Pin To Net: NetName=NetPmod1_7 Pin=Pmod1-7
+Added Pin To Net: NetName=NetPmod1_7 Pin=SR72-14
+Added Net: Name=NetPmod1_7

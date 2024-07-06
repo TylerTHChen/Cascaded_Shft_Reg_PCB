@@ -1,0 +1,179 @@
+Removed Pin From Net: NetName=GND Pin=FMC2-39
+Removed Pin From Net: NetName=GND Pin=FMC2-40
+Removed Pin From Net: NetName=GND Pin=FMC3-39
+Removed Pin From Net: NetName=GND Pin=FMC3-40
+Removed Member From Class: ClassName=main Member=FMC2
+Removed Member From Class: ClassName=main Member=FMC3
+Change Component Footprint: Designator=FMC1 Old Footprint=TSS-120-XX-X-D New Footprint=HDRV40W64P254X254_2X20_5080X508X869P
+Change Component Comment : Designator=FMC1 Old Comment=TSS-120-01-L-D New Comment=61304021121
+Change component parameters: Designator = "FMC1" ("FMC1"); Footprint = "TSS-120-XX-X-D"; UniqueID = "\NYCNAKGG" ("\NYCNAKGG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61304021121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61304021121?qs=PhR8RmCirEYWKI5WqdDUyg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=MFC2(HDRV40W64P254X254_2X20_5080X508X869P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61304021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61304021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61304021121?qs=PhR8RmCirEYWKI5WqdDUyg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=MFC3(HDRV40W64P254X254_2X20_5080X508X869P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61304021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61304021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61304021121?qs=PhR8RmCirEYWKI5WqdDUyg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MFC2-39
+Added Pin To Net: NetName=GND Pin=MFC2-40
+Added Pin To Net: NetName=GND Pin=MFC3-39
+Added Pin To Net: NetName=GND Pin=MFC3-40
+Added Pin To Net: NetName=NetMFC2_3 Pin=MFC2-3
+Added Pin To Net: NetName=NetMFC2_3 Pin=SR45-14
+Added Net: Name=NetMFC2_3
+Added Pin To Net: NetName=NetMFC2_4 Pin=MFC2-4
+Added Pin To Net: NetName=NetMFC2_4 Pin=SR57-14
+Added Net: Name=NetMFC2_4
+Added Pin To Net: NetName=NetMFC2_5 Pin=MFC2-5
+Added Pin To Net: NetName=NetMFC2_5 Pin=SR46-14
+Added Net: Name=NetMFC2_5
+Added Pin To Net: NetName=NetMFC2_6 Pin=MFC2-6
+Added Pin To Net: NetName=NetMFC2_6 Pin=SR58-14
+Added Net: Name=NetMFC2_6
+Added Pin To Net: NetName=NetMFC2_9 Pin=MFC2-9
+Added Pin To Net: NetName=NetMFC2_9 Pin=SR47-14
+Added Net: Name=NetMFC2_9
+Added Pin To Net: NetName=NetMFC2_10 Pin=MFC2-10
+Added Pin To Net: NetName=NetMFC2_10 Pin=SR59-14
+Added Net: Name=NetMFC2_10
+Added Pin To Net: NetName=NetMFC2_11 Pin=MFC2-11
+Added Pin To Net: NetName=NetMFC2_11 Pin=SR48-14
+Added Net: Name=NetMFC2_11
+Added Pin To Net: NetName=NetMFC2_12 Pin=MFC2-12
+Added Pin To Net: NetName=NetMFC2_12 Pin=SR60-14
+Added Net: Name=NetMFC2_12
+Added Pin To Net: NetName=NetMFC2_15 Pin=MFC2-15
+Added Pin To Net: NetName=NetMFC2_15 Pin=SR49-14
+Added Net: Name=NetMFC2_15
+Added Pin To Net: NetName=NetMFC2_16 Pin=MFC2-16
+Added Pin To Net: NetName=NetMFC2_16 Pin=SR61-14
+Added Net: Name=NetMFC2_16
+Added Pin To Net: NetName=NetMFC2_17 Pin=MFC2-17
+Added Pin To Net: NetName=NetMFC2_17 Pin=SR50-14
+Added Net: Name=NetMFC2_17
+Added Pin To Net: NetName=NetMFC2_18 Pin=MFC2-18
+Added Pin To Net: NetName=NetMFC2_18 Pin=SR62-14
+Added Net: Name=NetMFC2_18
+Added Pin To Net: NetName=NetMFC2_21 Pin=MFC2-21
+Added Pin To Net: NetName=NetMFC2_21 Pin=SR51-14
+Added Net: Name=NetMFC2_21
+Added Pin To Net: NetName=NetMFC2_22 Pin=MFC2-22
+Added Pin To Net: NetName=NetMFC2_22 Pin=SR63-14
+Added Net: Name=NetMFC2_22
+Added Pin To Net: NetName=NetMFC2_23 Pin=MFC2-23
+Added Pin To Net: NetName=NetMFC2_23 Pin=SR52-14
+Added Net: Name=NetMFC2_23
+Added Pin To Net: NetName=NetMFC2_24 Pin=MFC2-24
+Added Pin To Net: NetName=NetMFC2_24 Pin=SR64-14
+Added Net: Name=NetMFC2_24
+Added Pin To Net: NetName=NetMFC2_27 Pin=MFC2-27
+Added Pin To Net: NetName=NetMFC2_27 Pin=SR53-14
+Added Net: Name=NetMFC2_27
+Added Pin To Net: NetName=NetMFC2_28 Pin=MFC2-28
+Added Pin To Net: NetName=NetMFC2_28 Pin=SR65-14
+Added Net: Name=NetMFC2_28
+Added Pin To Net: NetName=NetMFC2_29 Pin=MFC2-29
+Added Pin To Net: NetName=NetMFC2_29 Pin=SR54-14
+Added Net: Name=NetMFC2_29
+Added Pin To Net: NetName=NetMFC2_30 Pin=MFC2-30
+Added Pin To Net: NetName=NetMFC2_30 Pin=SR66-14
+Added Net: Name=NetMFC2_30
+Added Pin To Net: NetName=NetMFC2_33 Pin=MFC2-33
+Added Pin To Net: NetName=NetMFC2_33 Pin=SR55-14
+Added Net: Name=NetMFC2_33
+Added Pin To Net: NetName=NetMFC2_34 Pin=MFC2-34
+Added Pin To Net: NetName=NetMFC2_34 Pin=SR67-14
+Added Net: Name=NetMFC2_34
+Added Pin To Net: NetName=NetMFC2_35 Pin=MFC2-35
+Added Pin To Net: NetName=NetMFC2_35 Pin=SR56-14
+Added Net: Name=NetMFC2_35
+Added Pin To Net: NetName=NetMFC2_36 Pin=MFC2-36
+Added Pin To Net: NetName=NetMFC2_36 Pin=SR68-14
+Added Net: Name=NetMFC2_36
+Added Pin To Net: NetName=NetMFC3_5 Pin=MFC3-5
+Added Pin To Net: NetName=NetMFC3_5 Pin=SR23-14
+Added Net: Name=NetMFC3_5
+Added Pin To Net: NetName=NetMFC3_6 Pin=MFC3-6
+Added Pin To Net: NetName=NetMFC3_6 Pin=SR34-14
+Added Net: Name=NetMFC3_6
+Added Pin To Net: NetName=NetMFC3_9 Pin=MFC3-9
+Added Pin To Net: NetName=NetMFC3_9 Pin=SR24-14
+Added Net: Name=NetMFC3_9
+Added Pin To Net: NetName=NetMFC3_10 Pin=MFC3-10
+Added Pin To Net: NetName=NetMFC3_10 Pin=SR35-14
+Added Net: Name=NetMFC3_10
+Added Pin To Net: NetName=NetMFC3_11 Pin=MFC3-11
+Added Pin To Net: NetName=NetMFC3_11 Pin=SR25-14
+Added Net: Name=NetMFC3_11
+Added Pin To Net: NetName=NetMFC3_12 Pin=MFC3-12
+Added Pin To Net: NetName=NetMFC3_12 Pin=SR36-14
+Added Net: Name=NetMFC3_12
+Added Pin To Net: NetName=NetMFC3_15 Pin=MFC3-15
+Added Pin To Net: NetName=NetMFC3_15 Pin=SR26-14
+Added Net: Name=NetMFC3_15
+Added Pin To Net: NetName=NetMFC3_16 Pin=MFC3-16
+Added Pin To Net: NetName=NetMFC3_16 Pin=SR37-14
+Added Net: Name=NetMFC3_16
+Added Pin To Net: NetName=NetMFC3_17 Pin=MFC3-17
+Added Pin To Net: NetName=NetMFC3_17 Pin=SR27-14
+Added Net: Name=NetMFC3_17
+Added Pin To Net: NetName=NetMFC3_18 Pin=MFC3-18
+Added Pin To Net: NetName=NetMFC3_18 Pin=SR38-14
+Added Net: Name=NetMFC3_18
+Added Pin To Net: NetName=NetMFC3_21 Pin=MFC3-21
+Added Pin To Net: NetName=NetMFC3_21 Pin=SR28-14
+Added Net: Name=NetMFC3_21
+Added Pin To Net: NetName=NetMFC3_22 Pin=MFC3-22
+Added Pin To Net: NetName=NetMFC3_22 Pin=SR39-14
+Added Net: Name=NetMFC3_22
+Added Pin To Net: NetName=NetMFC3_23 Pin=MFC3-23
+Added Pin To Net: NetName=NetMFC3_23 Pin=SR29-14
+Added Net: Name=NetMFC3_23
+Added Pin To Net: NetName=NetMFC3_24 Pin=MFC3-24
+Added Pin To Net: NetName=NetMFC3_24 Pin=SR40-14
+Added Net: Name=NetMFC3_24
+Added Pin To Net: NetName=NetMFC3_27 Pin=MFC3-27
+Added Pin To Net: NetName=NetMFC3_27 Pin=SR30-14
+Added Net: Name=NetMFC3_27
+Added Pin To Net: NetName=NetMFC3_28 Pin=MFC3-28
+Added Pin To Net: NetName=NetMFC3_28 Pin=SR41-14
+Added Net: Name=NetMFC3_28
+Added Pin To Net: NetName=NetMFC3_29 Pin=MFC3-29
+Added Pin To Net: NetName=NetMFC3_29 Pin=SR31-14
+Added Net: Name=NetMFC3_29
+Added Pin To Net: NetName=NetMFC3_30 Pin=MFC3-30
+Added Pin To Net: NetName=NetMFC3_30 Pin=SR42-14
+Added Net: Name=NetMFC3_30
+Added Pin To Net: NetName=NetMFC3_33 Pin=MFC3-33
+Added Pin To Net: NetName=NetMFC3_33 Pin=SR32-14
+Added Net: Name=NetMFC3_33
+Added Pin To Net: NetName=NetMFC3_34 Pin=MFC3-34
+Added Pin To Net: NetName=NetMFC3_34 Pin=SR43-14
+Added Net: Name=NetMFC3_34
+Added Pin To Net: NetName=NetMFC3_35 Pin=MFC3-35
+Added Pin To Net: NetName=NetMFC3_35 Pin=SR33-14
+Added Net: Name=NetMFC3_35
+Added Pin To Net: NetName=NetMFC3_36 Pin=MFC3-36
+Added Pin To Net: NetName=NetMFC3_36 Pin=SR44-14
+Added Net: Name=NetMFC3_36
+Added Member To Class: ClassName=main Member=Component MFC2 61304021121
+Added Member To Class: ClassName=main Member=Component MFC3 61304021121

@@ -1,0 +1,82 @@
+Added Component: Designator=FMC1(TSS-120-XX-X-D)
+Added Component: Designator=FMC2(TSS-120-XX-X-D)
+Added Component: Designator=FMC3(TSS-120-XX-X-D)
+Added Pin To Net: NetName=NetFMC1_5 Pin=FMC1-5
+Added Pin To Net: NetName=NetFMC1_6 Pin=FMC1-6
+Added Pin To Net: NetName=NetFMC1_9 Pin=FMC1-9
+Added Pin To Net: NetName=NetFMC1_10 Pin=FMC1-10
+Added Pin To Net: NetName=NetFMC1_11 Pin=FMC1-11
+Added Pin To Net: NetName=NetFMC1_12 Pin=FMC1-12
+Added Pin To Net: NetName=NetFMC1_15 Pin=FMC1-15
+Added Pin To Net: NetName=NetFMC1_16 Pin=FMC1-16
+Added Pin To Net: NetName=NetFMC1_17 Pin=FMC1-17
+Added Pin To Net: NetName=NetFMC1_18 Pin=FMC1-18
+Added Pin To Net: NetName=NetFMC1_21 Pin=FMC1-21
+Added Pin To Net: NetName=NetFMC1_22 Pin=FMC1-22
+Added Pin To Net: NetName=NetFMC1_23 Pin=FMC1-23
+Added Pin To Net: NetName=NetFMC1_24 Pin=FMC1-24
+Added Pin To Net: NetName=NetFMC1_27 Pin=FMC1-27
+Added Pin To Net: NetName=NetFMC1_28 Pin=FMC1-28
+Added Pin To Net: NetName=NetFMC1_29 Pin=FMC1-29
+Added Pin To Net: NetName=NetFMC1_30 Pin=FMC1-30
+Added Pin To Net: NetName=NetFMC1_33 Pin=FMC1-33
+Added Pin To Net: NetName=NetFMC1_34 Pin=FMC1-34
+Added Pin To Net: NetName=NetFMC1_35 Pin=FMC1-35
+Added Pin To Net: NetName=NetFMC1_36 Pin=FMC1-36
+Added Pin To Net: NetName=GND Pin=FMC1-39
+Added Pin To Net: NetName=GND Pin=FMC1-40
+Added Pin To Net: NetName=NetFMC2_5 Pin=FMC2-5
+Added Pin To Net: NetName=NetFMC2_6 Pin=FMC2-6
+Added Pin To Net: NetName=NetFMC2_9 Pin=FMC2-9
+Added Pin To Net: NetName=NetFMC2_10 Pin=FMC2-10
+Added Pin To Net: NetName=NetFMC2_11 Pin=FMC2-11
+Added Pin To Net: NetName=NetFMC2_12 Pin=FMC2-12
+Added Pin To Net: NetName=NetFMC2_15 Pin=FMC2-15
+Added Pin To Net: NetName=NetFMC2_16 Pin=FMC2-16
+Added Pin To Net: NetName=NetFMC2_17 Pin=FMC2-17
+Added Pin To Net: NetName=NetFMC2_18 Pin=FMC2-18
+Added Pin To Net: NetName=NetFMC2_21 Pin=FMC2-21
+Added Pin To Net: NetName=NetFMC2_22 Pin=FMC2-22
+Added Pin To Net: NetName=NetFMC2_23 Pin=FMC2-23
+Added Pin To Net: NetName=NetFMC2_24 Pin=FMC2-24
+Added Pin To Net: NetName=NetFMC2_27 Pin=FMC2-27
+Added Pin To Net: NetName=NetFMC2_28 Pin=FMC2-28
+Added Pin To Net: NetName=NetFMC2_29 Pin=FMC2-29
+Added Pin To Net: NetName=NetFMC2_30 Pin=FMC2-30
+Added Pin To Net: NetName=NetFMC2_33 Pin=FMC2-33
+Added Pin To Net: NetName=NetFMC2_34 Pin=FMC2-34
+Added Pin To Net: NetName=NetFMC2_35 Pin=FMC2-35
+Added Pin To Net: NetName=NetFMC2_36 Pin=FMC2-36
+Added Pin To Net: NetName=GND Pin=FMC2-39
+Added Pin To Net: NetName=GND Pin=FMC2-40
+Added Pin To Net: NetName=NetFMC3_3 Pin=FMC3-3
+Added Pin To Net: NetName=NetFMC3_4 Pin=FMC3-4
+Added Pin To Net: NetName=NetFMC3_5 Pin=FMC3-5
+Added Pin To Net: NetName=NetFMC3_6 Pin=FMC3-6
+Added Pin To Net: NetName=NetFMC3_9 Pin=FMC3-9
+Added Pin To Net: NetName=NetFMC3_10 Pin=FMC3-10
+Added Pin To Net: NetName=NetFMC3_11 Pin=FMC3-11
+Added Pin To Net: NetName=NetFMC3_12 Pin=FMC3-12
+Added Pin To Net: NetName=NetFMC3_15 Pin=FMC3-15
+Added Pin To Net: NetName=NetFMC3_16 Pin=FMC3-16
+Added Pin To Net: NetName=NetFMC3_17 Pin=FMC3-17
+Added Pin To Net: NetName=NetFMC3_18 Pin=FMC3-18
+Added Pin To Net: NetName=NetFMC3_21 Pin=FMC3-21
+Added Pin To Net: NetName=NetFMC3_22 Pin=FMC3-22
+Added Pin To Net: NetName=NetFMC3_23 Pin=FMC3-23
+Added Pin To Net: NetName=NetFMC3_24 Pin=FMC3-24
+Added Pin To Net: NetName=NetFMC3_27 Pin=FMC3-27
+Added Pin To Net: NetName=NetFMC3_28 Pin=FMC3-28
+Added Pin To Net: NetName=NetFMC3_29 Pin=FMC3-29
+Added Pin To Net: NetName=NetFMC3_30 Pin=FMC3-30
+Added Pin To Net: NetName=NetFMC3_33 Pin=FMC3-33
+Added Pin To Net: NetName=NetFMC3_34 Pin=FMC3-34
+Added Pin To Net: NetName=NetFMC3_35 Pin=FMC3-35
+Added Pin To Net: NetName=NetFMC3_36 Pin=FMC3-36
+Added Pin To Net: NetName=GND Pin=FMC3-39
+Added Pin To Net: NetName=GND Pin=FMC3-40
+Added Member To Class: ClassName=main Member=Component FMC1 TSS-120-01-L-D
+Added Member To Class: ClassName=main Member=Component FMC2 TSS-120-01-L-D
+Added Member To Class: ClassName=main Member=Component FMC3 TSS-120-01-L-D
+Added Room: Name=digital_PIN_interface
+Added Room: Name=main

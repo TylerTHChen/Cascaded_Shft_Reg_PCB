@@ -1,0 +1,330 @@
+Removed Pin From Net: NetName=SCK Pin=Pmod2-3
+Removed Pin From Net: NetName=RCK Pin=Pmod2-4
+Removed Pin From Net: NetName=SCK Pin=SR1-11
+Removed Pin From Net: NetName=RCK Pin=SR1-12
+Removed Pin From Net: NetName=SCK Pin=SR2-11
+Removed Pin From Net: NetName=RCK Pin=SR2-12
+Removed Pin From Net: NetName=SCK Pin=SR3-11
+Removed Pin From Net: NetName=RCK Pin=SR3-12
+Removed Pin From Net: NetName=SCK Pin=SR4-11
+Removed Pin From Net: NetName=RCK Pin=SR4-12
+Removed Pin From Net: NetName=SCK Pin=SR5-11
+Removed Pin From Net: NetName=RCK Pin=SR5-12
+Removed Pin From Net: NetName=SCK Pin=SR6-11
+Removed Pin From Net: NetName=RCK Pin=SR6-12
+Removed Pin From Net: NetName=SCK Pin=SR7-11
+Removed Pin From Net: NetName=RCK Pin=SR7-12
+Removed Pin From Net: NetName=SCK Pin=SR8-11
+Removed Pin From Net: NetName=RCK Pin=SR8-12
+Removed Pin From Net: NetName=SCK Pin=SR9-11
+Removed Pin From Net: NetName=RCK Pin=SR9-12
+Removed Pin From Net: NetName=SCK Pin=SR10-11
+Removed Pin From Net: NetName=RCK Pin=SR10-12
+Removed Pin From Net: NetName=SCK Pin=SR11-11
+Removed Pin From Net: NetName=RCK Pin=SR11-12
+Removed Pin From Net: NetName=SCK Pin=SR12-11
+Removed Pin From Net: NetName=RCK Pin=SR12-12
+Removed Pin From Net: NetName=SCK Pin=SR13-11
+Removed Pin From Net: NetName=RCK Pin=SR13-12
+Removed Pin From Net: NetName=SCK Pin=SR14-11
+Removed Pin From Net: NetName=RCK Pin=SR14-12
+Removed Pin From Net: NetName=SCK Pin=SR15-11
+Removed Pin From Net: NetName=RCK Pin=SR15-12
+Removed Pin From Net: NetName=SCK Pin=SR16-11
+Removed Pin From Net: NetName=RCK Pin=SR16-12
+Removed Pin From Net: NetName=SCK Pin=SR17-11
+Removed Pin From Net: NetName=RCK Pin=SR17-12
+Removed Pin From Net: NetName=SCK Pin=SR18-11
+Removed Pin From Net: NetName=RCK Pin=SR18-12
+Removed Pin From Net: NetName=SCK Pin=SR19-11
+Removed Pin From Net: NetName=RCK Pin=SR19-12
+Removed Pin From Net: NetName=SCK Pin=SR20-11
+Removed Pin From Net: NetName=RCK Pin=SR20-12
+Removed Pin From Net: NetName=RCK Pin=SR21-12
+Removed Pin From Net: NetName=RCK Pin=SR22-12
+Removed Pin From Net: NetName=RCK Pin=SR23-12
+Removed Pin From Net: NetName=RCK Pin=SR24-12
+Removed Pin From Net: NetName=RCK Pin=SR25-12
+Removed Pin From Net: NetName=RCK Pin=SR26-12
+Removed Pin From Net: NetName=RCK Pin=SR27-12
+Removed Pin From Net: NetName=RCK Pin=SR28-12
+Removed Pin From Net: NetName=RCK Pin=SR29-12
+Removed Pin From Net: NetName=RCK Pin=SR30-12
+Removed Pin From Net: NetName=RCK Pin=SR31-12
+Removed Pin From Net: NetName=RCK Pin=SR32-12
+Removed Pin From Net: NetName=RCK Pin=SR33-12
+Removed Pin From Net: NetName=RCK Pin=SR34-12
+Removed Pin From Net: NetName=RCK Pin=SR35-12
+Removed Pin From Net: NetName=RCK Pin=SR36-12
+Removed Pin From Net: NetName=RCK Pin=SR37-12
+Removed Pin From Net: NetName=RCK Pin=SR38-12
+Removed Pin From Net: NetName=RCK Pin=SR39-12
+Removed Pin From Net: NetName=RCK Pin=SR40-12
+Removed Pin From Net: NetName=SCK Pin=SR41-11
+Removed Pin From Net: NetName=SCK Pin=SR42-11
+Removed Pin From Net: NetName=SCK Pin=SR43-11
+Removed Pin From Net: NetName=SCK Pin=SR44-11
+Removed Pin From Net: NetName=SCK Pin=SR45-11
+Removed Pin From Net: NetName=SCK Pin=SR46-11
+Removed Pin From Net: NetName=SCK Pin=SR47-11
+Removed Pin From Net: NetName=SCK Pin=SR48-11
+Removed Pin From Net: NetName=SCK Pin=SR49-11
+Removed Pin From Net: NetName=SCK Pin=SR50-11
+Removed Pin From Net: NetName=SCK Pin=SR51-11
+Removed Pin From Net: NetName=SCK Pin=SR52-11
+Removed Pin From Net: NetName=SCK Pin=SR53-11
+Removed Pin From Net: NetName=SCK Pin=SR54-11
+Removed Pin From Net: NetName=SCK Pin=SR55-11
+Removed Pin From Net: NetName=SCK Pin=SR56-11
+Removed Pin From Net: NetName=SCK Pin=SR57-11
+Removed Pin From Net: NetName=SCK Pin=SR58-11
+Removed Pin From Net: NetName=SCK Pin=SR59-11
+Removed Pin From Net: NetName=SCK Pin=SR60-11
+Removed Pin From Net: NetName=SCK Pin=SR61-11
+Removed Pin From Net: NetName=RCK Pin=SR61-12
+Removed Pin From Net: NetName=SCK Pin=SR62-11
+Removed Pin From Net: NetName=RCK Pin=SR62-12
+Removed Pin From Net: NetName=SCK Pin=SR63-11
+Removed Pin From Net: NetName=RCK Pin=SR63-12
+Removed Pin From Net: NetName=SCK Pin=SR64-11
+Removed Pin From Net: NetName=RCK Pin=SR64-12
+Removed Pin From Net: NetName=SCK Pin=SR65-11
+Removed Pin From Net: NetName=RCK Pin=SR65-12
+Removed Pin From Net: NetName=SCK Pin=SR66-11
+Removed Pin From Net: NetName=RCK Pin=SR66-12
+Removed Pin From Net: NetName=SCK Pin=SR67-11
+Removed Pin From Net: NetName=RCK Pin=SR67-12
+Removed Pin From Net: NetName=SCK Pin=SR68-11
+Removed Pin From Net: NetName=RCK Pin=SR68-12
+Removed Pin From Net: NetName=SCK Pin=SR69-11
+Removed Pin From Net: NetName=RCK Pin=SR69-12
+Removed Pin From Net: NetName=SCK Pin=SR70-11
+Removed Pin From Net: NetName=RCK Pin=SR70-12
+Removed Pin From Net: NetName=SCK Pin=SR71-11
+Removed Pin From Net: NetName=RCK Pin=SR71-12
+Removed Pin From Net: NetName=SCK Pin=SR72-11
+Removed Pin From Net: NetName=RCK Pin=SR72-12
+Removed Pin From Net: NetName=SCK Pin=SR73-11
+Removed Pin From Net: NetName=RCK Pin=SR73-12
+Removed Pin From Net: NetName=SCK Pin=SR74-11
+Removed Pin From Net: NetName=RCK Pin=SR74-12
+Removed Pin From Net: NetName=SCK Pin=SR75-11
+Removed Pin From Net: NetName=RCK Pin=SR75-12
+Removed Pin From Net: NetName=SCK Pin=SR76-11
+Removed Pin From Net: NetName=RCK Pin=SR76-12
+Removed Pin From Net: NetName=SCK Pin=SR77-11
+Removed Pin From Net: NetName=RCK Pin=SR77-12
+Removed Pin From Net: NetName=SCK Pin=SR78-11
+Removed Pin From Net: NetName=RCK Pin=SR78-12
+Added Component: Designator=R625(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R626(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R627(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R628(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R629(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R630(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R631(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R632(RES_RNCF0603_STP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNCF0603AKT10R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK Pin=R627-1
+Added Pin To Net: NetName=RCK Pin=R630-2
+Change Net Name : Old Net Name=RCK New Net Name=RCK3
+Change Net Name : Old Net Name=SCK New Net Name=SCK2
+Added Pin To Net: NetName=NetPmod3_1 Pin=Pmod3-1
+Added Pin To Net: NetName=NetPmod3_1 Pin=R625-2
+Added Net: Name=NetPmod3_1
+Added Pin To Net: NetName=NetPmod3_2 Pin=Pmod3-2
+Added Pin To Net: NetName=NetPmod3_2 Pin=R626-1
+Added Net: Name=NetPmod3_2
+Added Pin To Net: NetName=NetPmod3_3 Pin=Pmod3-3
+Added Pin To Net: NetName=NetPmod3_3 Pin=R627-2
+Added Net: Name=NetPmod3_3
+Added Pin To Net: NetName=NetPmod3_4 Pin=Pmod3-4
+Added Pin To Net: NetName=NetPmod3_4 Pin=R628-1
+Added Net: Name=NetPmod3_4
+Added Pin To Net: NetName=NetPmod3_5 Pin=Pmod3-5
+Added Pin To Net: NetName=NetPmod3_5 Pin=R629-2
+Added Net: Name=NetPmod3_5
+Added Pin To Net: NetName=NetPmod3_6 Pin=Pmod3-6
+Added Pin To Net: NetName=NetPmod3_6 Pin=R630-1
+Added Net: Name=NetPmod3_6
+Added Pin To Net: NetName=NetPmod3_7 Pin=Pmod3-7
+Added Pin To Net: NetName=NetPmod3_7 Pin=R631-2
+Added Net: Name=NetPmod3_7
+Added Pin To Net: NetName=NetPmod3_8 Pin=Pmod3-8
+Added Pin To Net: NetName=NetPmod3_8 Pin=R632-1
+Added Net: Name=NetPmod3_8
+Added Pin To Net: NetName=RCK1 Pin=R626-2
+Added Pin To Net: NetName=RCK1 Pin=SR1-12
+Added Pin To Net: NetName=RCK1 Pin=SR2-12
+Added Pin To Net: NetName=RCK1 Pin=SR3-12
+Added Pin To Net: NetName=RCK1 Pin=SR4-12
+Added Pin To Net: NetName=RCK1 Pin=SR5-12
+Added Pin To Net: NetName=RCK1 Pin=SR6-12
+Added Pin To Net: NetName=RCK1 Pin=SR7-12
+Added Pin To Net: NetName=RCK1 Pin=SR8-12
+Added Pin To Net: NetName=RCK1 Pin=SR9-12
+Added Pin To Net: NetName=RCK1 Pin=SR10-12
+Added Pin To Net: NetName=RCK1 Pin=SR11-12
+Added Pin To Net: NetName=RCK1 Pin=SR12-12
+Added Pin To Net: NetName=RCK1 Pin=SR13-12
+Added Pin To Net: NetName=RCK1 Pin=SR14-12
+Added Pin To Net: NetName=RCK1 Pin=SR15-12
+Added Pin To Net: NetName=RCK1 Pin=SR16-12
+Added Pin To Net: NetName=RCK1 Pin=SR17-12
+Added Pin To Net: NetName=RCK1 Pin=SR18-12
+Added Pin To Net: NetName=RCK1 Pin=SR19-12
+Added Pin To Net: NetName=RCK1 Pin=SR20-12
+Added Net: Name=RCK1
+Added Pin To Net: NetName=RCK2 Pin=R628-2
+Added Pin To Net: NetName=RCK2 Pin=SR21-12
+Added Pin To Net: NetName=RCK2 Pin=SR22-12
+Added Pin To Net: NetName=RCK2 Pin=SR23-12
+Added Pin To Net: NetName=RCK2 Pin=SR24-12
+Added Pin To Net: NetName=RCK2 Pin=SR25-12
+Added Pin To Net: NetName=RCK2 Pin=SR26-12
+Added Pin To Net: NetName=RCK2 Pin=SR27-12
+Added Pin To Net: NetName=RCK2 Pin=SR28-12
+Added Pin To Net: NetName=RCK2 Pin=SR29-12
+Added Pin To Net: NetName=RCK2 Pin=SR30-12
+Added Pin To Net: NetName=RCK2 Pin=SR31-12
+Added Pin To Net: NetName=RCK2 Pin=SR32-12
+Added Pin To Net: NetName=RCK2 Pin=SR33-12
+Added Pin To Net: NetName=RCK2 Pin=SR34-12
+Added Pin To Net: NetName=RCK2 Pin=SR35-12
+Added Pin To Net: NetName=RCK2 Pin=SR36-12
+Added Pin To Net: NetName=RCK2 Pin=SR37-12
+Added Pin To Net: NetName=RCK2 Pin=SR38-12
+Added Pin To Net: NetName=RCK2 Pin=SR39-12
+Added Pin To Net: NetName=RCK2 Pin=SR40-12
+Added Net: Name=RCK2
+Added Pin To Net: NetName=RCK4 Pin=R632-2
+Added Pin To Net: NetName=RCK4 Pin=SR61-12
+Added Pin To Net: NetName=RCK4 Pin=SR62-12
+Added Pin To Net: NetName=RCK4 Pin=SR63-12
+Added Pin To Net: NetName=RCK4 Pin=SR64-12
+Added Pin To Net: NetName=RCK4 Pin=SR65-12
+Added Pin To Net: NetName=RCK4 Pin=SR66-12
+Added Pin To Net: NetName=RCK4 Pin=SR67-12
+Added Pin To Net: NetName=RCK4 Pin=SR68-12
+Added Pin To Net: NetName=RCK4 Pin=SR69-12
+Added Pin To Net: NetName=RCK4 Pin=SR70-12
+Added Pin To Net: NetName=RCK4 Pin=SR71-12
+Added Pin To Net: NetName=RCK4 Pin=SR72-12
+Added Pin To Net: NetName=RCK4 Pin=SR73-12
+Added Pin To Net: NetName=RCK4 Pin=SR74-12
+Added Pin To Net: NetName=RCK4 Pin=SR75-12
+Added Pin To Net: NetName=RCK4 Pin=SR76-12
+Added Pin To Net: NetName=RCK4 Pin=SR77-12
+Added Pin To Net: NetName=RCK4 Pin=SR78-12
+Added Net: Name=RCK4
+Added Pin To Net: NetName=SCK1 Pin=R625-1
+Added Pin To Net: NetName=SCK1 Pin=SR1-11
+Added Pin To Net: NetName=SCK1 Pin=SR2-11
+Added Pin To Net: NetName=SCK1 Pin=SR3-11
+Added Pin To Net: NetName=SCK1 Pin=SR4-11
+Added Pin To Net: NetName=SCK1 Pin=SR5-11
+Added Pin To Net: NetName=SCK1 Pin=SR6-11
+Added Pin To Net: NetName=SCK1 Pin=SR7-11
+Added Pin To Net: NetName=SCK1 Pin=SR8-11
+Added Pin To Net: NetName=SCK1 Pin=SR9-11
+Added Pin To Net: NetName=SCK1 Pin=SR10-11
+Added Pin To Net: NetName=SCK1 Pin=SR11-11
+Added Pin To Net: NetName=SCK1 Pin=SR12-11
+Added Pin To Net: NetName=SCK1 Pin=SR13-11
+Added Pin To Net: NetName=SCK1 Pin=SR14-11
+Added Pin To Net: NetName=SCK1 Pin=SR15-11
+Added Pin To Net: NetName=SCK1 Pin=SR16-11
+Added Pin To Net: NetName=SCK1 Pin=SR17-11
+Added Pin To Net: NetName=SCK1 Pin=SR18-11
+Added Pin To Net: NetName=SCK1 Pin=SR19-11
+Added Pin To Net: NetName=SCK1 Pin=SR20-11
+Added Net: Name=SCK1
+Added Pin To Net: NetName=SCK3 Pin=R629-1
+Added Pin To Net: NetName=SCK3 Pin=SR41-11
+Added Pin To Net: NetName=SCK3 Pin=SR42-11
+Added Pin To Net: NetName=SCK3 Pin=SR43-11
+Added Pin To Net: NetName=SCK3 Pin=SR44-11
+Added Pin To Net: NetName=SCK3 Pin=SR45-11
+Added Pin To Net: NetName=SCK3 Pin=SR46-11
+Added Pin To Net: NetName=SCK3 Pin=SR47-11
+Added Pin To Net: NetName=SCK3 Pin=SR48-11
+Added Pin To Net: NetName=SCK3 Pin=SR49-11
+Added Pin To Net: NetName=SCK3 Pin=SR50-11
+Added Pin To Net: NetName=SCK3 Pin=SR51-11
+Added Pin To Net: NetName=SCK3 Pin=SR52-11
+Added Pin To Net: NetName=SCK3 Pin=SR53-11
+Added Pin To Net: NetName=SCK3 Pin=SR54-11
+Added Pin To Net: NetName=SCK3 Pin=SR55-11
+Added Pin To Net: NetName=SCK3 Pin=SR56-11
+Added Pin To Net: NetName=SCK3 Pin=SR57-11
+Added Pin To Net: NetName=SCK3 Pin=SR58-11
+Added Pin To Net: NetName=SCK3 Pin=SR59-11
+Added Pin To Net: NetName=SCK3 Pin=SR60-11
+Added Net: Name=SCK3
+Added Pin To Net: NetName=SCK4 Pin=R631-1
+Added Pin To Net: NetName=SCK4 Pin=SR61-11
+Added Pin To Net: NetName=SCK4 Pin=SR62-11
+Added Pin To Net: NetName=SCK4 Pin=SR63-11
+Added Pin To Net: NetName=SCK4 Pin=SR64-11
+Added Pin To Net: NetName=SCK4 Pin=SR65-11
+Added Pin To Net: NetName=SCK4 Pin=SR66-11
+Added Pin To Net: NetName=SCK4 Pin=SR67-11
+Added Pin To Net: NetName=SCK4 Pin=SR68-11
+Added Pin To Net: NetName=SCK4 Pin=SR69-11
+Added Pin To Net: NetName=SCK4 Pin=SR70-11
+Added Pin To Net: NetName=SCK4 Pin=SR71-11
+Added Pin To Net: NetName=SCK4 Pin=SR72-11
+Added Pin To Net: NetName=SCK4 Pin=SR73-11
+Added Pin To Net: NetName=SCK4 Pin=SR74-11
+Added Pin To Net: NetName=SCK4 Pin=SR75-11
+Added Pin To Net: NetName=SCK4 Pin=SR76-11
+Added Pin To Net: NetName=SCK4 Pin=SR77-11
+Added Pin To Net: NetName=SCK4 Pin=SR78-11
+Added Net: Name=SCK4
+Added Member To Class: ClassName=main Member=Component R625 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R626 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R627 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R628 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R629 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R630 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R631 RNCF0603AKT10R0
+Added Member To Class: ClassName=main Member=Component R632 RNCF0603AKT10R0

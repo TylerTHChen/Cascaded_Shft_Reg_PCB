@@ -1,0 +1,50 @@
+Change Component Comment : Designator=Pmod1 Old Comment=PPPC062LJBN-RC New Comment=PPPC062LFBN-RC
+Change Component Comment : Designator=Pmod2 Old Comment=PPPC062LJBN-RC New Comment=PPPC062LFBN-RC
+Change Component Comment : Designator=Pmod3 Old Comment=PPPC062LJBN-RC New Comment=PPPC062LFBN-RC
+Change Component Comment : Designator=Pmod4 Old Comment=PPPC062LJBN-RC New Comment=PPPC062LFBN-RC
+Change Component Comment : Designator=Pmod5 Old Comment=PPPC062LJBN-RC New Comment=PPPC062LFBN-RC
+Change component parameters: Designator = "Pmod1" ("Pmod1"); Footprint = "RHDRRA12W60P254X254_2X6_1574X850X508P"; UniqueID = "\GVQZGFOP" ("\GVQZGFOP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Pmod2" ("Pmod2"); Footprint = "RHDRRA12W60P254X254_2X6_1574X850X508P"; UniqueID = "\JQQETYLX" ("\JQQETYLX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Pmod3" ("Pmod3"); Footprint = "RHDRRA12W60P254X254_2X6_1574X850X508P"; UniqueID = "\MJNZOPYV" ("\MJNZOPYV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Pmod4" ("Pmod4"); Footprint = "RHDRRA12W60P254X254_2X6_1574X850X508P"; UniqueID = "\KRBPRXNX" ("\KRBPRXNX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Pmod5" ("Pmod5"); Footprint = "RHDRRA12W60P254X254_2X6_1574X850X508P"; UniqueID = "\IPXNMAVZ" ("\IPXNMAVZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC062LFBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
